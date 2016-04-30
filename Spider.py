@@ -40,6 +40,9 @@ class LolSpider:
             pass
 
 
+    def SaveData(self):
+        pass
+
 
 
 
